@@ -1,0 +1,17 @@
+{
+  "name": "discord-crypto",
+  "version": "3.0.0",
+  "description": "A simple bot for Discord providing current Crypto exchange-rates",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Juri \"4dams\" Adams",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "currency-formatter": "^1.5.3",
+    "discord.js": "^11.4.2",
+    "moment": "^2.23.0"
+  }
+}

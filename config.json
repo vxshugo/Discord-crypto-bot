@@ -1,0 +1,40 @@
+{
+  "prefix": "=",
+  "token": "Nzg4Mzg4MjMyMzc0Mzg2Njk5.X9ixwg.XLBPSERydbsqcUtg6Q7fHtolhQk",
+  "currencies": [
+    "BTC",
+    "ETH",
+    "SOL",
+    "XRP",
+    "LTC"
+  ],
+  "translateTo": [
+    "EUR",
+    "USD",
+    "KZT"
+  ],
+  "cryptoApiKey": "4d5b08a2d601f4cf8387a7fc139dab77aabc019eaa7506fdd9d8e73f42489a26",
+  "defaultOutput": "USD",
+  "statusMessages": [
+    {
+      "type": "message",
+      "value": "Type \"%PREFIX%help\" to start!"
+    },
+    {
+      "type": "currency",
+      "value": "BTC"
+    },
+    {
+      "type": "currency",
+      "value": "SOL"
+    },
+    {
+      "type": "currency",
+      "value": "ETH"
+    }
+  ],
+  "updateDelay": 20000,
+  "activeChannels": [
+    "771761528739069962"
+  ]
+}
