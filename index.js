@@ -7,7 +7,7 @@ const config = require('./config.json');
 
 // Create and connect Discord client
 const client = new Discord.Client();
-client.login(config.token);
+client.login(process.env.token);
 
 // Global variables
 let allCurrencies = [];
